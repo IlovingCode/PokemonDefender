@@ -1,0 +1,72 @@
+{
+  "animation": null,
+  "designHeight": 480,
+  "designWidth": 800,
+  "version": "0.3.9.0",
+  "widgetTree": {
+    "classname": "Panel",
+    "children": [
+	  {
+		"classname" : "Text",
+		"options" : {
+		  "tag" : 110,
+		  "x" : 400,
+		  "y" : 400,
+		  "fontName" : "../fonts/Marker Felt.ttf",
+		  "fontSize" : 24,
+		  "text" : "Anh Thien dep trai vi dieu"
+		}
+	  },
+	  {
+        "classname": "Button",
+        "options": {
+          "tag": 3,
+          "touchAble": true,
+          "x": 600,
+          "y": 100,
+          "normalData": {
+            "path": "../skiinggame/right.png"
+          },
+          "disabledData": null,
+          "pressedData": null
+        }
+      },
+	  {
+        "classname": "Button",
+        "options": {
+		  "scaleX": -1,
+          "tag": 4,
+          "touchAble": true,
+          "x": 200,
+          "y": 100,
+          "normalData": {
+            "path": "../skiinggame/right.png"
+          },
+          "disabledData": null,
+          "pressedData": null
+        }
+      },
+	  {
+        "classname": "Button",
+        "options": {
+		  "scaleX": 0.2,
+          "scaleY": 0.2,
+          "tag": 2,
+          "touchAble": true,
+          "x": 780,
+          "y": 460,
+          "normalData": {
+            "path": "../skiinggame/exit.png"
+          },
+          "disabledData": null,
+          "pressedData": null
+        }
+      }
+	],
+	"options": {
+      "backGroundImageData": null,
+	  "touchAble": true,
+	  "tag": 0
+    }
+  }
+}

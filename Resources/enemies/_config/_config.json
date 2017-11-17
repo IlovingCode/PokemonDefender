@@ -1,0 +1,18 @@
+{
+"charizard":{
+"type": "grass",
+"texture": "enemies/0.png",
+"rectInfo": "enemies/data.json",
+"moveAnim": [[1,2,3],[4,5,6],[7,8,9]],
+"speed": 70,
+"HP": 100
+},
+"pigey":{
+"type": "grass",
+"texture": "enemies/0.png",
+"rectInfo": "enemies/data.json",
+"moveAnim": [[1,2,3],[4,5,6],[7,8,9]],
+"speed": 70,
+"HP": 100
+}
+}

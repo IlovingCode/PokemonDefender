@@ -1,0 +1,32 @@
+{
+  "background": "battles/0.png",
+  "name": "Electric Factory",
+  "beginX": 2.5,
+  "beginY": 0.5,
+  "count": 30,
+  "round": 20,
+  "enemy": [
+	"pidgey",
+	"ivysaur",
+	"bulbasaur",
+	"venusaur",
+	"charmander",
+	"charmelon",
+	"charizard",
+	"squirtle",
+	"wartortle",
+	"caterpie",
+	"metapod",
+	"butterfree",
+	"weedle",
+	"kakuna",
+	"beedrill",
+	"pidgeotto",
+	"pidgeot",
+	"blastoise"
+  ],
+  "path": [
+	"1u1l2u1r1u4r2d4r1u5r4u2r3u8l3d4l3u4l3d",
+	"1u1l2u1r1u3r2d5r1u5r4u2r3u8l3d4l3u3l1d1l2d"
+  ]
+}

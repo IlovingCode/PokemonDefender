@@ -1,0 +1,11 @@
+{
+  "type": "electric",
+  "frontFrame": [68,59],
+  "backFrame": [73,58],
+  "scale": 0.9,
+  "speed": 300,
+  "range": 100,
+  "damage": 20,
+  "skill": "TM03",
+  "price": 30
+}

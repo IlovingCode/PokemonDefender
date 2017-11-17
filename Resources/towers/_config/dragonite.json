@@ -1,0 +1,11 @@
+{
+  "type": "dragon",
+  "frontFrame": [80,82],
+  "backFrame": [86,81],
+  "scale": 0.9,
+  "speed": 300,
+  "range": 100,
+  "damage": 20,
+  "skill": "TM03",
+  "price": 30
+}

@@ -1,0 +1,11 @@
+{
+  "type": "spychic",
+  "frontFrame": [79,60],
+  "backFrame": [80,66],
+  "scale": 0.9,
+  "speed": 300,
+  "range": 100,
+  "damage": 20,
+  "skill": "TM10",
+  "price": 30
+}

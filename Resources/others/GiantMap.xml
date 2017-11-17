@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<XnaContent>
+  <!-- TODO: replace this Asset with your own XML asset data. -->
+  <Asset Type="Info.GiantMap">
+    <name>Others/kanto</name>
+    <stone>
+      <Item>normal</Item>
+      <Item>fire</Item>
+      <Item>water</Item>
+      <Item>grass</Item>
+      <Item>electric</Item>
+    </stone>
+    <map>
+      <Item>
+        <name>Battle/B1.img</name>
+        <pos>285 240</pos>
+        <enable>true</enable>
+        <xml>Battle/B1.info</xml>
+      </Item>
+      <Item>
+        <name>Battle/B2.img</name>
+        <pos>290 170</pos>
+        <enable>true</enable>
+        <xml>Battle/B2.info</xml>
+      </Item>
+      <Item>
+        <name>Battle/B0.img</name>
+        <pos>290 135</pos>
+        <enable>true</enable>
+        <xml>Battle/B0.info</xml>
+      </Item>
+      <Item>
+        <name>Battle/B3.img</name>
+        <pos>280 75</pos>
+        <enable>true</enable>
+        <xml>Battle/B3.info</xml>
+      </Item>
+      <Item>
+        <name>Battle/B4.img</name>
+        <pos>460 35</pos>
+        <enable>true</enable>
+        <xml>Battle/B4.info</xml>
+      </Item>
+      <!--Item>
+        <name>Battle/B5.img</name>
+        <pos>535 40</pos>
+        <enable>true</enable>
+        <xml>Battle/B5.info</xml>
+      </Item>
+      <Item>
+        <name>Battle/B6.img</name>
+        <pos>400 85</pos>
+        <enable>true</enable>
+        <xml>Battle/B6.info</xml>
+      </Item>
+      <Item>
+        <name>Battle/B0.img</name>
+        <pos>500 85</pos>
+        <enable>false</enable>
+        <xml>Battle/B0.info</xml>
+      </Item>
+      <Item>
+        <name>Battle/B0.img</name>
+        <pos>480 170</pos>
+        <enable>false</enable>
+        <xml>Battle/B0.info</xml>
+      </Item>
+      <Item>
+        <name>Battle/B0.img</name>
+        <pos>460 125</pos>
+        <enable>false</enable>
+        <xml>Battle/B0.info</xml>
+      </Item>
+      <Item>
+        <name>Battle/B0.img</name>
+        <pos>420 200</pos>
+        <enable>false</enable>
+        <xml>Battle/B0.info</xml>
+      </Item>
+      <Item>
+        <name>Battle/B0.img</name>
+        <pos>225 20</pos>
+        <enable>false</enable>
+        <xml>Battle/B0.info</xml>
+      </Item-->
+    </map>
+  </Asset>
+</XnaContent>

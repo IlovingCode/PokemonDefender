@@ -1,0 +1,15 @@
+{
+"rectInfo": "skiinggame/data.json",
+"texture": "skiinggame/flags.png",
+"animation": [4,16,32,48],
+"speed": 600,
+"v": 600,
+"a": 1200,
+"mapList":[
+"skiinggame/map.png",
+"skiinggame/map.png",
+"skiinggame/map.png",
+"skiinggame/map.png",
+"skiinggame/map.png"
+]
+}

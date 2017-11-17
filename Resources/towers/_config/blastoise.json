@@ -1,0 +1,11 @@
+{
+  "type": "water",
+  "frontFrame": [69,65],
+  "backFrame": [66,66],
+  "scale": 0.64,
+  "speed": 300,
+  "range": 100,
+  "damage": 20,
+  "skill": "TM03",
+  "price": 30
+}

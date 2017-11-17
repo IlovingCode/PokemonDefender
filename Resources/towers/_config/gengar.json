@@ -1,0 +1,11 @@
+{
+  "type": "ghost",
+  "frontFrame": [79,65],
+  "backFrame": [73,64],
+  "scale": 0.9,
+  "speed": 300,
+  "range": 100,
+  "damage": 20,
+  "skill": "TM03",
+  "price": 30
+}

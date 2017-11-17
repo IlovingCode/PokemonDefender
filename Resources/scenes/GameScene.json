@@ -1,0 +1,535 @@
+{
+  "animation": null,
+  "designHeight": 480,
+  "designWidth": 800,
+  "version": "0.3.9.0",
+  "widgetTree": {
+	"classname": "Panel",
+    "children": [
+	  {
+		"classname" : "Label",
+		"options" : {
+		  "x" : 400,
+		  "y" : 450,
+		  "fontName" : "../fonts/Marker Felt.ttf",
+		  "fontSize" : 40,
+		  "text" : "Pokemon Defense"
+		}
+	  },
+	  {
+		"classname" : "Text",
+		"options" : {
+		  "tag" : 110,
+		  "x" : 400,
+		  "y" : 400,
+		  "fontName" : "../fonts/Marker Felt.ttf",
+		  "fontSize" : 24,
+		  "text" : "Anh Thien dep trai vi dieu"
+		}
+	  },
+	  {
+		"classname": "ImageView",
+		"options": {
+		  "fileNameData": {
+			"path": "../others/heart.png"
+		  },
+		  "tag": 111,
+		  "x": 775,
+		  "y": 460,
+		  "scaleX": 0.7,
+		  "scaleY": 0.7
+		}
+	  },
+	  {
+		"classname": "ImageView",
+		"options": {
+		  "fileNameData": {
+			"path": "../others/battery1.png"
+		  },
+		  "tag": 106,
+		  "x": 50,
+		  "y": 460,
+		  "scaleX": 0.2,
+		  "scaleY": 0.2
+		}
+	  },
+	  {
+		"classname": "ImageView",
+		"options": {
+		  "fileNameData": {
+			"path": "../others/battery.png"
+		  },
+		  "x": 52,
+		  "y": 460,
+		  "scaleX": 0.2,
+		  "scaleY": 0.2
+		}
+	  },
+	  {
+        "classname": "Button",
+        "options": {
+		  "scaleX": 0.15,
+		  "scaleY": 0.15,
+		  "tag": 101,
+		  "touchAble": true,
+		  "x": 350,
+		  "y": 15,
+		  "normalData": {
+            "path": "../others/pause.png"
+		  },
+		  "disabledData": null,
+		  "pressedData": null
+        }
+      },
+      {
+        "classname": "Button",
+        "options": {
+          "scaleX": 0.15,
+          "scaleY": 0.15,
+          "tag": 102,
+          "touchAble": true,
+          "x": 405,
+          "y": 15,
+          "normalData": {
+            "path": "../others/exit.png"
+          },
+          "disabledData": null,
+          "pressedData": null
+        }
+      },
+      {
+        "classname": "Button",
+        "options": {
+          "scaleX": 0.15,
+          "scaleY": 0.15,
+          "tag": 103,
+          "touchAble": true,
+          "x": 290,
+          "y": 15,
+          "normalData": {
+            "path": "../others/speed.png"
+          },
+          "disabledData": null,
+          "pressedData": null
+        }
+      },
+      {
+		"classname": "ImageView",
+		"children": [
+		  {
+			"classname": "ImageView",
+			"options": {
+			  "anchorPointY": 0,
+			  "fileNameData": {
+				"path": ""
+			  },
+			  "tag": 0,
+			  "touchAble": true,
+			  "ZOrder": -1,
+			  "x": 370,
+			  "y": 5
+			}
+		  },
+		  {
+			"classname": "ImageView",
+			"options": {
+			  "anchorPointY": 0,
+			  "fileNameData": {
+				"path": ""
+			  },
+			  "tag": 1,
+			  "touchAble": true,
+			  "ZOrder": -1,
+			  "x": 300,
+			  "y": 5
+			}
+		  },
+		  {
+			"classname": "ImageView",
+			"options": {
+			  "anchorPointY": 0,
+			  "fileNameData": {
+				"path": ""
+			  },
+			  "tag": 2,
+			  "touchAble": true,
+			  "ZOrder": -1,
+			  "x": 220,
+			  "y": 5
+			}
+		  },
+		  {
+			"classname": "ImageView",
+			"options": {
+			  "anchorPointY": 0,
+			  "fileNameData": {
+				"path": ""
+			  },
+			  "tag": 3,
+			  "touchAble": true,
+			  "ZOrder": -1,
+			  "x": 150,
+			  "y": 5
+			}
+		  },
+		  {
+			"classname": "ImageView",
+			"options": {
+			  "anchorPointY": 0,
+			  "fileNameData": {
+				"path": ""
+			  },
+			  "tag": 4,
+			  "touchAble": true,
+			  "ZOrder": -1,
+			  "x": 80,
+			  "y": 5
+			}
+		  },
+		  {
+			"classname": "ImageView",
+			"options": {
+			  "anchorPointY": 0,
+			  "fileNameData": {
+				"path": ""
+			  },
+			  "scaleX": 0.3,
+			  "scaleY": 0.3,
+			  "ZOrder": -1,
+			  "x": -375,
+			  "y": 15
+			}
+		  },
+		  {
+			"classname": "ImageView",
+			"options": {
+			  "anchorPointY": 0,
+			  "fileNameData": {
+				"path": ""
+			  },
+			  "scaleX": 0.3,
+			  "scaleY": 0.3,
+			  "ZOrder": -1,
+			  "x": -325,
+			  "y": 15
+			}
+		  },
+		  {
+			"classname": "ImageView",
+			"options": {
+			  "anchorPointY": 0,
+			  "fileNameData": {
+				"path": ""
+			  },
+			  "scaleX": 0.3,
+			  "scaleY": 0.3,
+			  "ZOrder": -1,
+			  "x": -280,
+			  "y": 15
+			}
+		  },
+		  {
+			"classname": "ImageView",
+			"options": {
+			  "anchorPointY": 0,
+			  "fileNameData": {
+				"path": ""
+			  },
+			  "scaleX": 0.3,
+			  "scaleY": 0.3,
+			  "ZOrder": -1,
+			  "x": -230,
+			  "y": 15
+			}
+		  },
+		  {
+			"classname": "ImageView",
+			"options": {
+			  "anchorPointY": 0,
+			  "fileNameData": {
+				"path": ""
+			  },
+			  "scaleX": 0.3,
+			  "scaleY": 0.3,
+			  "ZOrder": -1,
+			  "x": -180,
+			  "y": 15
+			}
+		  },
+		  {
+			"classname" : "Text",
+			"options" : {
+			  "x": 370,
+			  "y": 8,
+			  "fontName" : "../fonts/arial.ttf",
+			  "fontSize" : 18,
+			  "text" : "000"
+			}
+		  },
+		  {
+			"classname" : "Text",
+			"options" : {
+			  "x": 300,
+			  "y": 8,
+			  "fontName" : "../fonts/arial.ttf",
+			  "fontSize" : 18,
+			  "text" : "000"
+			}
+		  },
+		  {
+			"classname" : "Text",
+			"options" : {
+			  "x": 220,
+			  "y": 8,
+			  "fontName" : "../fonts/arial.ttf",
+			  "fontSize" : 18,
+			  "text" : "000"
+			}
+		  },
+		  {
+			"classname" : "Text",
+			"options" : {
+			  "x": 150,
+			  "y": 8,
+			  "fontName" : "../fonts/arial.ttf",
+			  "fontSize" : 18,
+			  "text" : "000"
+			}
+		  },
+		  {
+			"classname" : "Text",
+			"options" : {
+			  "x": 80,
+			  "y": 8,
+			  "fontName" : "../fonts/arial.ttf",
+			  "fontSize" : 18,
+			  "text" : "000"
+			}
+		  },
+		  {
+			"classname" : "Text",
+			"options" : {
+			  "x": -375,
+			  "y": 8,
+			  "fontName" : "../fonts/arial.ttf",
+			  "fontSize" : 18,
+			  "text" : "000"
+			}
+		  },
+		  {
+			"classname" : "Text",
+			"options" : {
+			  "x": -325,
+			  "y": 8,
+			  "fontName" : "../fonts/arial.ttf",
+			  "fontSize" : 18,
+			  "text" : "000"
+			}
+		  },
+		  {
+			"classname" : "Text",
+			"options" : {
+			  "x": -280,
+			  "y": 8,
+			  "fontName" : "../fonts/arial.ttf",
+			  "fontSize" : 18,
+			  "text" : "000"
+			}
+		  },
+		  {
+			"classname" : "Text",
+			"options" : {
+			  "x": -230,
+			  "y": 8,
+			  "fontName" : "../fonts/arial.ttf",
+			  "fontSize" : 18,
+			  "text" : "000"
+			}
+		  },
+		  {
+			"classname" : "Text",
+			"options" : {
+			  "x": -180,
+			  "y": 8,
+			  "fontName" : "../fonts/arial.ttf",
+			  "fontSize" : 18,
+			  "text" : "000"
+			}
+		  }
+		],
+		"options": {
+		  "anchorPointY": 0,
+          "fileNameData": {
+            "path": "../others/border.png"
+          },
+          "tag": 104,
+          "x": 400,
+          "y": 0
+        }
+      },
+	  {
+		"classname": "Panel",
+		"children": [
+		  {
+			"classname": "ImageView",
+			"options": {
+			  "fileNameData": {
+				"path": "../others/range.png"
+			  },
+			  "opacity": 70
+			}
+		  },
+		  {
+			"classname": "Button",
+			"children":[
+			  {
+				"classname" : "Text",
+				"options" : {
+				  "y": -20,
+				  "fontName" : "../fonts/arial.ttf",
+				  "fontSize" : 38,
+				  "text" : "00"
+				}
+			  }
+			],
+			"options": {
+			  "scaleX": 0.5,
+			  "scaleY": 0.5,
+			  "touchAble": true,
+			  "x": 50,
+			  "normalData": {
+				"path": "../others/sell.png"
+			  },
+			  "disabledData": null,
+			  "pressedData": null
+			}
+		  },
+		  {
+			"classname": "Button",
+			"children":[
+			  {
+				"classname": "ImageView",
+				"children":[
+				  {
+					"classname" : "Text",
+					"options" : {
+					  "x": -120,
+					  "y": 40,
+					  "fontName" : "../fonts/arial.ttf",
+					  "fontSize" : 90,
+					  "text" : ""
+					}
+				  }
+				],
+				"options": {
+				  "fileNameData": {
+					"path": ""
+				  },
+				  "y": 17,
+				  "x": 15,
+				  "scaleX": 0.3,
+				  "scaleY": 0.3
+				}
+			  },
+			  {
+				"classname": "ImageView",
+				"children":[
+				  {
+					"classname" : "Text",
+					"options" : {
+					  "x": -120,
+					  "y": 40,
+					  "fontName" : "../fonts/arial.ttf",
+					  "fontSize" : 90,
+					  "text" : ""
+					}
+				  }
+				],
+				"options": {
+				  "fileNameData": {
+					"path": ""
+				  },
+				  "y": -17,
+				  "x": 15,
+				  "scaleX": 0.3,
+				  "scaleY": 0.3
+				}
+			  },
+			  {
+				"classname": "ImageView",
+				"children":[
+				  {
+					"classname" : "Text",
+					"options" : {
+					  "x": -120,
+					  "y": 40,
+					  "fontName" : "../fonts/arial.ttf",
+					  "fontSize" : 90,
+					  "text" : ""
+					}
+				  }
+				],
+				"options": {
+				  "fileNameData": {
+					"path": ""
+				  },
+				  "y": 51,
+				  "x": 15,
+				  "scaleX": 0.3,
+				  "scaleY": 0.3
+				}
+			  },
+			  {
+				"classname": "ImageView",
+				"children":[
+				  {
+					"classname" : "Text",
+					"options" : {
+					  "x": -120,
+					  "y": 40,
+					  "fontName" : "../fonts/arial.ttf",
+					  "fontSize" : 90,
+					  "text" : ""
+					}
+				  }
+				],
+				"options": {
+				  "fileNameData": {
+					"path": ""
+				  },
+				  "y": -51,
+				  "x": 15,
+				  "scaleX": 0.3,
+				  "scaleY": 0.3
+				}
+			  }
+			],
+			"options": {
+			  "scaleX": 0.5,
+			  "scaleY": 0.5,
+			  "touchAble": true,
+			  "x": -50,
+			  "normalData": {
+				"path": "../others/upgrade.png"
+			  },
+			  "disabledData": null,
+			  "pressedData": null
+			}
+		  }
+		],
+		"options": {
+		  "backGroundImageData": null,
+		  "x": 400,
+		  "y": 40,
+		  "tag": 105
+		}
+	  }
+    ],
+    "options": {
+      "backGroundImageData": null,
+	  "touchAble": true,
+	  "tag": 100,
+	  "opacity": 0
+    }
+  }
+}

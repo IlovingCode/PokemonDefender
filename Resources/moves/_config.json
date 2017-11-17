@@ -1,0 +1,132 @@
+{
+"TM01": {
+"scale": 1.5,
+"damage": 0,
+"type": "ice",
+"rectParam":[150,1123,32,160],
+"actionType": 2,
+"isMovable": true,
+"delay": 0.6,
+"amount": 5
+},
+"TM02": {
+"scale": 1.5,
+"damage": 0,
+"type": "grass",
+"rectParam":[200,1164,32,160],
+"actionType": 2,
+"isMovable": true,
+"delay": 0.6,
+"amount": 5
+},
+"TM03": {
+"scale": 1.5,
+"damage": 0,
+"type": "fire",
+"rectParam":[241,1164,32,160],
+"actionType": 3,
+"isMovable": true,
+"delay": 0.6,
+"amount": 5
+},
+"TM04": {
+"scale": 1.5,
+"damage": 0,
+"type": "ice",
+"rectParam":[374,1158,32,224],
+"actionType": 3,
+"isMovable": true,
+"delay": 0.6,
+"amount": 5
+},
+"TM05": {
+"scale": 1.5,
+"damage": 0,
+"type": "electric",
+"rectParam":[440,1334,32,160],
+"actionType": 3,
+"isMovable": false,
+"delay": 0.5,
+"amount": 5
+},
+"TM06": {
+"scale": 1.5,
+"damage": 0,
+"type": "water",
+"rectParam":[407,1449,32,160],
+"actionType": 3,
+"isMovable": false,
+"delay": 0.6,
+"amount": 5
+},
+"TM07": {
+"scale": 1.5,
+"damage": 0,
+"type": "grass",
+"rectParam":[407,1610,32,256],
+"actionType": 3,
+"isMovable": true,
+"delay": 0.6,
+"amount": 10
+},
+"TM08": {
+"scale": 1.5,
+"damage": 0,
+"type": "ice",
+"rectParam":[241,1454,32,160],
+"actionType": 3,
+"isMovable": true,
+"delay": 0.6,
+"amount": 10
+},
+"TM09": {
+"scale": 1.5,
+"damage": 0,
+"type": "ice",
+"rectParam":[200,1325,32,160],
+"actionType": 3,
+"isMovable": true,
+"delay": 0.6,
+"amount": 10
+},
+"TM10": {
+"scale": 1.5,
+"damage": 0,
+"type": "rock",
+"rectParam":[440,1173,32,160],
+"actionType": 3,
+"isMovable": true,
+"delay": 0.6,
+"amount": 10
+},
+"TM11": {
+"scale": 1.5,
+"damage": 0,
+"type": "rock",
+"rectParam":[357,1037,16,96],
+"actionType": 3,
+"isMovable": false,
+"delay": 0.6,
+"amount": 10
+},
+"TM12": {
+"scale": 1.5,
+"damage": 0,
+"type": "grass",
+"rectParam":[374,183,32,160],
+"actionType": 3,
+"isMovable": false,
+"delay": 0.6,
+"amount": 10
+},
+"TM13": {
+"scale": 1.5,
+"damage": 0,
+"type": "water",
+"rectParam":[274,152,16,224],
+"actionType": 4,
+"isMovable": true,
+"delay": 0.9,
+"amount": 30
+}
+}

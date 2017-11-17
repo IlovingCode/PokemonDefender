@@ -1,0 +1,93 @@
+{
+  "animation": null,
+  "designHeight": 480,
+  "designWidth": 800,
+  "version": "0.3.9.0",
+  "widgetTree": {
+    "classname": "Panel",
+    "children": [
+	  {
+		"classname" : "Text",
+		"options" : {
+		  "tag" : 110,
+		  "x" : 400,
+		  "y" : 400,
+		  "fontName" : "../fonts/Marker Felt.ttf",
+		  "fontSize" : 24,
+		  "text" : "Anh Thien dep trai vi dieu"
+		}
+	  },
+	  {
+        "classname": "Button",
+        "options": {
+		  "scaleX": 0.2,
+          "scaleY": 0.2,
+          "tag": 3,
+          "touchAble": true,
+          "x": 200,
+          "y": 460,
+          "normalData": {
+            "path": "../others/speed.png"
+          },
+          "disabledData": null,
+          "pressedData": null
+        }
+      },
+	  {
+        "classname": "Button",
+        "options": {
+		  "scaleX": -0.2,
+          "scaleY": 0.2,
+          "tag": 4,
+          "touchAble": true,
+          "x": 100,
+          "y": 460,
+          "normalData": {
+            "path": "../others/speed.png"
+          },
+          "disabledData": null,
+          "pressedData": null
+        }
+      },
+	  {
+        "classname": "Button",
+        "options": {
+		  "scaleX": 0.2,
+          "scaleY": 0.2,
+          "tag": 1,
+          "touchAble": true,
+          "x": 20,
+          "y": 460,
+          "normalData": {
+            "path": "../others/pause.png"
+          },
+          "disabledData": null,
+          "pressedData": null
+        }
+      },
+	  {
+        "classname": "Button",
+        "options": {
+		  "scaleX": 0.2,
+          "scaleY": 0.2,
+          "tag": 2,
+          "touchAble": true,
+          "x": 780,
+          "y": 460,
+          "normalData": {
+            "path": "../others/exit.png"
+          },
+          "disabledData": null,
+          "pressedData": null
+        }
+      }
+	],
+	"options": {
+      "backGroundImageData": {
+		"path": "../minigame/tree_bg.jpg"
+	  },
+	  "touchAble": true,
+	  "tag": 0
+    }
+  }
+}

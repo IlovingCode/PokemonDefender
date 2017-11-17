@@ -1,0 +1,11 @@
+{
+  "type": "fire",
+  "frontFrame": [89,91],
+  "backFrame": [98,83],
+  "scale": 0.9,
+  "speed": 300,
+  "range": 100,
+  "damage": 20,
+  "skill": "TM03",
+  "price": 30
+}

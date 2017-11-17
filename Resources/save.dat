@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"/>
+
+<plist version="1.0">
+    <dict>
+        <key>initEnergy</key>
+        <integer>80</integer>
+        <key>stoneDusk</key>
+        <integer>10</integer>
+        <key>gold</key>
+        <integer>100</integer>
+        <key>stoneShiny</key>
+        <integer>10</integer>
+        <key>energyMax</key>
+        <integer>100</integer>
+        <key>stoneLeaf</key>
+        <integer>10</integer>
+        <key>stoneFire</key>
+        <integer>10</integer>
+        <key>stoneWater</key>
+        <integer>10</integer>
+        <key>stoneThunder</key>
+        <integer>10</integer>
+        <key>stoneDawn</key>
+        <integer>10</integer>
+        <key>stoneSun</key>
+        <integer>10</integer>
+        <key>stoneMoon</key>
+        <integer>10</integer>
+        <key>stoneEver</key>
+        <integer>10</integer>
+    </dict>
+</plist>

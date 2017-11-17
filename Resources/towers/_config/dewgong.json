@@ -1,0 +1,11 @@
+{
+  "type": "ice",
+  "frontFrame": [75,74],
+  "backFrame": [77,88],
+  "scale": 0.9,
+  "speed": 300,
+  "range": 100,
+  "damage": 20,
+  "skill": "TM03",
+  "price": 30
+}

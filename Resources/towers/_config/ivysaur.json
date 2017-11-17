@@ -1,0 +1,11 @@
+{
+  "type": "grass",
+  "frontFrame": [58,51],
+  "backFrame": [57,45],
+  "scale": 0.9,
+  "speed": 300,
+  "range": 100,
+  "damage": 20,
+  "skill": "TM03",
+  "price": 30
+}

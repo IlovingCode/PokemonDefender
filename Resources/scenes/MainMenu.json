@@ -1,0 +1,79 @@
+{
+  "animation": null,
+  "designHeight": 480,
+  "designWidth": 800,
+  "version": "0.3.9.0",
+  "widgetTree": {
+    "classname": "Panel",
+    "children": [
+	  {
+        "classname": "Button",
+        "options": {
+		  "scaleX": 0.5,
+          "scaleY": 0.5,
+          "tag": 3,
+          "touchAble": true,
+          "x": 100,
+          "y": 240,
+          "normalData": {
+            "path": "../others/money.png"
+          },
+          "disabledData": null,
+          "pressedData": null
+        }
+      },
+	  {
+        "classname": "Button",
+        "options": {
+		  "scaleX": 0.5,
+          "scaleY": 0.5,
+          "tag": 1,
+          "touchAble": true,
+          "x": 500,
+          "y": 240,
+          "normalData": {
+            "path": "../others/play.png"
+          },
+          "disabledData": null,
+          "pressedData": null
+        }
+      },
+	  {
+        "classname": "Button",
+        "options": {
+		  "scaleX": 0.5,
+          "scaleY": 0.5,
+          "tag": 2,
+          "touchAble": true,
+          "x": 300,
+          "y": 240,
+          "normalData": {
+            "path": "../others/exit.png"
+          },
+          "disabledData": null,
+          "pressedData": null
+        }
+      },
+	  {
+        "classname": "Button",
+        "options": {
+		  "scaleX": 0.5,
+          "scaleY": 0.5,
+          "tag": 4,
+          "touchAble": true,
+          "x": 700,
+          "y": 240,
+          "normalData": {
+            "path": "../others/money.png"
+          },
+          "disabledData": null,
+          "pressedData": null
+        }
+      }
+	],
+	"options": {
+      "backGroundImageData": null,
+	  "tag": 0
+    }
+  }
+}

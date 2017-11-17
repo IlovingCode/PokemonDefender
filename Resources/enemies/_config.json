@@ -1,0 +1,149 @@
+{
+"bulbasaur":{
+"type": "grass",
+"texture": "enemies/0.png",
+"rectInfo": "enemies/data.json",
+"moveAnim": [[0,1,2],[6,7,8],[12,13,14]],
+"speed": 40,
+"HP": 1000
+},
+"ivysaur":{
+"type": "grass",
+"texture": "enemies/0.png",
+"rectInfo": "enemies/data.json",
+"moveAnim": [[84,85,86],[90,91,92],[96,97,98]],
+"speed": 35,
+"HP": 1000
+},
+"venusaur":{
+"type": "grass",
+"texture": "enemies/0.png",
+"rectInfo": "enemies/data.json",
+"moveAnim": [[141,142,143],[147,148,149],[153,154,155]],
+"speed": 25,
+"HP": 1000
+},
+"charmander":{
+"type": "fire",
+"texture": "enemies/0.png",
+"rectInfo": "enemies/data.json",
+"moveAnim": [[197,198,199],[203,204,205],[209,210,211]],
+"speed": 40,
+"HP": 1000
+},
+"charmelon":{
+"type": "fire",
+"texture": "enemies/0.png",
+"rectInfo": "enemies/data.json",
+"moveAnim": [[288,289,290],[294,295,296],[300,301,302]],
+"speed": 40,
+"HP": 1000
+},
+"charizard":{
+"type": "fire",
+"texture": "enemies/0.png",
+"rectInfo": "enemies/data.json",
+"moveAnim": [[338,339,340],[344,345,346],[350,351,352]],
+"speed": 40,
+"HP": 1000
+},
+"squirtle":{
+"type": "water",
+"texture": "enemies/0.png",
+"rectInfo": "enemies/data.json",
+"moveAnim": [[391,392,393],[397,398,399],[403,404,405]],
+"speed": 40,
+"HP": 1000
+},
+"wartortle":{
+"type": "water",
+"texture": "enemies/0.png",
+"rectInfo": "enemies/data.json",
+"moveAnim": [[483,484,485],[501,502,503],[495,496,497]],
+"speed": 40,
+"HP": 1000
+},
+"blastoise":{
+"type": "water",
+"texture": "enemies/0.png",
+"rectInfo": "enemies/data.json",
+"moveAnim": [[544,545,546],[550,551,552],[556,557,558]],
+"speed": 40,
+"HP": 1000
+},
+"caterpie":{
+"type": "bug",
+"texture": "enemies/0.png",
+"rectInfo": "enemies/data.json",
+"moveAnim": [[587,588,589],[593,594,595],[599,600,601]],
+"speed": 40,
+"HP": 1000
+},
+"metapod":{
+"type": "bug",
+"texture": "enemies/0.png",
+"rectInfo": "enemies/data.json",
+"moveAnim": [[640,641,642],[646,647,648],[652,636,653]],
+"speed": 40,
+"HP": 1000
+},
+"butterfree":{
+"type": "bug",
+"texture": "enemies/0.png",
+"rectInfo": "enemies/data.json",
+"moveAnim": [[680,681,682],[686,687,688],[692,693,694]],
+"speed": 40,
+"HP": 1000
+},
+"weedle":{
+"type": "bug",
+"texture": "enemies/0.png",
+"rectInfo": "enemies/data.json",
+"moveAnim": [[736,737,738],[742,743,744],[732,748,749]],
+"speed": 40,
+"HP": 1000
+},
+"kakuna":{
+"type": "bug",
+"texture": "enemies/0.png",
+"rectInfo": "enemies/data.json",
+"moveAnim": [[782,785],[783,788],[791,793]],
+"speed": 40,
+"HP": 1000
+},
+"beedrill":{
+"type": "bug",
+"texture": "enemies/0.png",
+"rectInfo": "enemies/data.json",
+"moveAnim": [[832,833,834],[838,839,840],[844,845,846]],
+"speed": 40,
+"HP": 1000
+},
+"pidgey":{
+"type": "normal",
+"texture": "enemies/0.png",
+"rectInfo": "enemies/data.json",
+"mAnim": [[883,884,885],[889,890,891],[895,896,897]],
+"moveAnim": [[898,899,900],[904,905,906],[910,911,912]],
+"speed": 40,
+"HP": 1000
+},
+"pidgeotto":{
+"type": "normal",
+"texture": "enemies/0.png",
+"rectInfo": "enemies/data.json",
+"mAnim": [[934,935,936],[940,941,942],[946,947,948]],
+"moveAnim": [[949,950,951],[955,956,957],[971,972,975]],
+"speed": 40,
+"HP": 1000
+},
+"pidgeot":{
+"type": "normal",
+"texture": "enemies/0.png",
+"rectInfo": "enemies/data.json",
+"mAnim": [[985,986,987],[991,992,993],[997,998,999]],
+"moveAnim": [[1000,1001,1002],[1006,1007,1008],[1018,1019,1020]],
+"speed": 40,
+"HP": 1000
+}
+}
